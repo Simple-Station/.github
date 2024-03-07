@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/Park-Station/.github/main/profile/logo.svg" width="1080px" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Simple-Station/.github/main/profile/logo.svg" width="1080px" /></p>
 
 <h1 align="center">SimpleStation</h1>
 <h3 align=center><i>It's space, but simple!</i></h3>
